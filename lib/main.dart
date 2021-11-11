@@ -137,7 +137,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       locale: _locale,
       debugShowCheckedModeBanner: false,
-      title: 'Maily',
+      title: 'MailAssist',
       onGenerateRoute: AppRouter.generateRoute,
       initialRoute: Routes.splash,
       navigatorKey: locator<NavigationService>().navigatorKey,

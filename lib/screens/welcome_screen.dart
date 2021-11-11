@@ -46,11 +46,11 @@ class WelcomeScreen extends StatelessWidget {
         title: localizations.welcomePanel1Title,
         body: localizations.welcomePanel1Text,
         image: Image.asset(
-          'assets/images/maily.png',
+          'assets/images/mailAssist.png',
           height: 200,
           fit: BoxFit.cover,
         ),
-        decoration: PageDecoration(pageColor: Colors.green[700]),
+        decoration: PageDecoration(pageColor: Colors.green[300]),
         footer: _buildFooter(localizations),
       ),
       PageViewModel(

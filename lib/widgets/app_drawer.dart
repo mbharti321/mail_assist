@@ -71,14 +71,14 @@ class AppDrawer extends StatelessWidget {
             ),
             Material(
               elevation: 18,
-              child: PlatformListTile(
-                leading: Icon(iconService.settings),
-                title: Text(localizations.drawerEntrySettings),
-                onTap: () {
-                  final navService = locator<NavigationService>();
-                  navService.push(Routes.settings);
-                },
-              ),
+              // child: PlatformListTile(
+              //   leading: Icon(iconSservice.settings),
+              //   title: Text(localizations.drawerEntrySettings),
+              //   onTap: () {
+              //     final navService = locator<NavigationService>();
+              //     navService.push(Routes.settings);
+              //   },
+              // ),
             )
           ],
         ),

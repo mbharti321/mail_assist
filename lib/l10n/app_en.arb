@@ -51,23 +51,23 @@
   "@actionAddressSearch": {
     "description": "Search action for email addresses"
   },
-  "splashLoading1": "Maily starting...",
+  "splashLoading1": "MailAssist starting...",
   "@splashLoading1": {
     "description": "Message shown on splash screen while loading"
   },
-  "splashLoading2": "Getting your Maily engine ready...",
+  "splashLoading2": "Getting your MailAssist engine ready...",
   "@splashLoading2": {
     "description": "Message shown on splash screen while loading"
   },
-  "splashLoading3": "Launching Maily in 10, 9, 8...",
+  "splashLoading3": "Launching MailAssist in 10, 9, 8...",
   "@splashLoading3": {
     "description": "Message shown on splash screen while loading"
   },
-  "welcomePanel1Title": "Maily",
+  "welcomePanel1Title": "MailAssist",
   "@welcomePanel1Title": {
     "description": "Welcome panel title"
   },
-  "welcomePanel1Text": "Welcome to Maily, your friendly and fast email helper!",
+  "welcomePanel1Text": "Welcome to MailAssist, your friendly and fast email helper!",
   "@welcomePanel1Text": {
     "description": "Welcome message shown on first panel"
   },
@@ -325,7 +325,7 @@
       }
     }
   },
-  "drawerEntryAbout": "About Maily",
+  "drawerEntryAbout": "About MailAssist",
   "@drawerEntryAbout": {
     "description": "Menu entry for about."
   },

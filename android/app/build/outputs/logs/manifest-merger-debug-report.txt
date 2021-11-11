@@ -1,0 +1,585 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+MERGED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+MERGED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:local_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttercontactpicker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\fluttercontactpicker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:background_fetch] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\background_fetch\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:shared_preferences] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:path_provider] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:wakelock] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-29:12
+MERGED from [:native_pdf_renderer] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\native_pdf_renderer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_web_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_web_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:package_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:add_2_calendar] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\add_2_calendar\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\bb921b1266b194e646f68e9a1773782f\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9fdc3fc64a7738a9494cc8b4a8385d64\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8e6f13ecb0cecf3112098e0f927e7e71\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\d3fdc8554cd8d1d5d1e6b5079e50f4e4\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\4175b8e9e323f0438b53f35835fabfd3\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3cf6cb9d852a15399a8ea374f8e2a856\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\dcaa94d2f2aa311370005f8f8c088c62\fragment-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\57b1cf04e932591c19e03d506082c4e7\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\6c435fa2e4cf48e116a1e8d9040e1f5a\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1b12b6b507f6e115e947bd4ca6bbf4e5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\15284677bf4c670e94dd2d3f86197b06\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a2a85143fc10b8b4ebc5bc101561edc4\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\47200817ac4d35b2b7646d3979824aa6\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\b987399a4c93313ee2de808edfa76d70\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\86a320d9e5fdee92fa6efdb80079e83c\jetified-activity-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\300020ab114a321a9b64cb4ff066561e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\00f97885ffbf819362131c358bb4e3f9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\066c3d4282090c03d163403fcbd16079\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a459c6d198b945b3638a778a6d715d0d\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\31977b89cc45485f4baf9be3546012c2\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3815c994ac03336cf849eb58dca80c3c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\5f30a854ad84cbe865d4e59047d1ea88\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8cca641c52c73d552dbb78517398db1b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9afe4b779b60081e367a426104824fa4\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\129152462f3f5935f6b4740e89f29c64\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9a93e8524880a8634b6a6564577e3fa6\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\2b02fe0b454a7a974d56a5fc68e6a850\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f8b7571f1ff78db6d5d60ce6f869a40c\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3673e67653f7d34d83174b2c69129091\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8c7f8a805674ab589e12e70059428aa5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\22954bfdaa39870b3433cbc91d0a75f5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3156aaae97e4ea77d83e02ab759cf07d\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\545d6e97820573a414ae71385a9b4967\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9f27e308c8e5d50258b49425d4ff2d38\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a524719ea6a6d92a7cb79e9b1c30d27b\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e73e3742c3388c1a683d5d0b670b0c6\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ebae46880154fc2db66412c23af82a34\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ae0df4ed1268ab781f960c2289dec795\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\0e53a8f74fdcd25dda5bd7a48cc70191\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\89a30dc4e5515ac91cb14e7c1e612afa\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e55fa1a400ec03a8b32a6a8668a3901\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\26c945857fb14d281a9ae5fdb18d2706\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c6c017c09c605ceba80f09b1e3b70d42\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1d9c41d292aec6de44ddaafe2aefdbe0\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:2:1-33:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\95cc9bc84a69fa48d4e116c3800ecca6\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\fc3e5e594c9af13a6888ff73927fbad0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:3:6-52
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:3:6-52
+	android:versionCode
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:1-79:12
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:7:5-73
+MERGED from [:local_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-74
+MERGED from [:local_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:27:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:7:22-71
+queries
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:8:5-13:15
+MERGED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+MERGED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-11:15
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.item/event
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:9:5-12:14
+action#android.intent.action.INSERT
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:10:9-63
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:10:17-60
+data
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:11:9-66
+	android:mimeType
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:11:15-63
+application
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:19:5-78:19
+MERGED from [:background_fetch] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\background_fetch\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-8:19
+MERGED from [:background_fetch] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\background_fetch\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-8:19
+MERGED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-27:19
+MERGED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9fdc3fc64a7738a9494cc8b4a8385d64\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9fdc3fc64a7738a9494cc8b4a8385d64\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8e6f13ecb0cecf3112098e0f927e7e71\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8e6f13ecb0cecf3112098e0f927e7e71\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\d3fdc8554cd8d1d5d1e6b5079e50f4e4\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\d3fdc8554cd8d1d5d1e6b5079e50f4e4\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8c7f8a805674ab589e12e70059428aa5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8c7f8a805674ab589e12e70059428aa5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:15:5-31:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:15:5-31:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\95cc9bc84a69fa48d4e116c3800ecca6\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\95cc9bc84a69fa48d4e116c3800ecca6\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:22:9-30
+	android:fullBackupContent
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:23:9-43
+	tools:replace
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:20:9-38
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:21:9-57
+activity#de.enough.enough_mail_app.MainActivity
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:26:9-62:20
+	android:launchMode
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:28:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:30:13-163
+	android:theme
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:27:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:37:13-40:17
+	android:resource
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:39:15-52
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:38:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:43:27-74
+intent-filter#action:name:android.intent.action.SENDTO+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:mailto
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:45:13-51:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:46:25-66
+action#android.intent.action.SENDTO
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:47:17-70
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:47:25-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:49:17-75
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:50:27-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.SEND
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:53:25-66
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:58:25-75
+activity#com.linusu.flutter_web_auth.CallbackActivity
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:64:9-72:20
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:64:19-78
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:pathPrefix:oauth+data:scheme:com.googleusercontent.apps.424146727626-6rrctb5oaovtghijvt091puvpo33u5c1+data:scheme:maily
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:65:13-71:29
+	android:label
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:65:28-60
+meta-data#flutterEmbedding
+ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:75:9-77:33
+	android:value
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:77:13-30
+	android:name
+		ADDED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml:76:13-44
+uses-sdk
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:local_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttercontactpicker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\fluttercontactpicker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttercontactpicker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\fluttercontactpicker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:background_fetch] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\background_fetch\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:background_fetch] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\background_fetch\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_secure_storage] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:wakelock] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:native_pdf_renderer] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\native_pdf_renderer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:native_pdf_renderer] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\native_pdf_renderer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_web_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_web_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:add_2_calendar] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\add_2_calendar\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:add_2_calendar] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\add_2_calendar\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\bb921b1266b194e646f68e9a1773782f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\bb921b1266b194e646f68e9a1773782f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9fdc3fc64a7738a9494cc8b4a8385d64\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9fdc3fc64a7738a9494cc8b4a8385d64\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8e6f13ecb0cecf3112098e0f927e7e71\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8e6f13ecb0cecf3112098e0f927e7e71\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\d3fdc8554cd8d1d5d1e6b5079e50f4e4\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\d3fdc8554cd8d1d5d1e6b5079e50f4e4\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\4175b8e9e323f0438b53f35835fabfd3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\4175b8e9e323f0438b53f35835fabfd3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3cf6cb9d852a15399a8ea374f8e2a856\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3cf6cb9d852a15399a8ea374f8e2a856\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\dcaa94d2f2aa311370005f8f8c088c62\fragment-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\dcaa94d2f2aa311370005f8f8c088c62\fragment-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\57b1cf04e932591c19e03d506082c4e7\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\57b1cf04e932591c19e03d506082c4e7\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\6c435fa2e4cf48e116a1e8d9040e1f5a\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\6c435fa2e4cf48e116a1e8d9040e1f5a\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1b12b6b507f6e115e947bd4ca6bbf4e5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1b12b6b507f6e115e947bd4ca6bbf4e5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\15284677bf4c670e94dd2d3f86197b06\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\15284677bf4c670e94dd2d3f86197b06\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a2a85143fc10b8b4ebc5bc101561edc4\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a2a85143fc10b8b4ebc5bc101561edc4\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\47200817ac4d35b2b7646d3979824aa6\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\47200817ac4d35b2b7646d3979824aa6\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\b987399a4c93313ee2de808edfa76d70\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\b987399a4c93313ee2de808edfa76d70\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\86a320d9e5fdee92fa6efdb80079e83c\jetified-activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\86a320d9e5fdee92fa6efdb80079e83c\jetified-activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\300020ab114a321a9b64cb4ff066561e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\300020ab114a321a9b64cb4ff066561e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\00f97885ffbf819362131c358bb4e3f9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\00f97885ffbf819362131c358bb4e3f9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\066c3d4282090c03d163403fcbd16079\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\066c3d4282090c03d163403fcbd16079\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a459c6d198b945b3638a778a6d715d0d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a459c6d198b945b3638a778a6d715d0d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\31977b89cc45485f4baf9be3546012c2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\31977b89cc45485f4baf9be3546012c2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3815c994ac03336cf849eb58dca80c3c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3815c994ac03336cf849eb58dca80c3c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\5f30a854ad84cbe865d4e59047d1ea88\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\5f30a854ad84cbe865d4e59047d1ea88\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8cca641c52c73d552dbb78517398db1b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8cca641c52c73d552dbb78517398db1b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9afe4b779b60081e367a426104824fa4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9afe4b779b60081e367a426104824fa4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f381e8e7f3fc7d801359effc66e4c6f7\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\129152462f3f5935f6b4740e89f29c64\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\129152462f3f5935f6b4740e89f29c64\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9a93e8524880a8634b6a6564577e3fa6\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9a93e8524880a8634b6a6564577e3fa6\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\2b02fe0b454a7a974d56a5fc68e6a850\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\2b02fe0b454a7a974d56a5fc68e6a850\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f8b7571f1ff78db6d5d60ce6f869a40c\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f8b7571f1ff78db6d5d60ce6f869a40c\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3673e67653f7d34d83174b2c69129091\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3673e67653f7d34d83174b2c69129091\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8c7f8a805674ab589e12e70059428aa5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\8c7f8a805674ab589e12e70059428aa5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\22954bfdaa39870b3433cbc91d0a75f5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\22954bfdaa39870b3433cbc91d0a75f5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3156aaae97e4ea77d83e02ab759cf07d\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\3156aaae97e4ea77d83e02ab759cf07d\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\545d6e97820573a414ae71385a9b4967\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\545d6e97820573a414ae71385a9b4967\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9f27e308c8e5d50258b49425d4ff2d38\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9f27e308c8e5d50258b49425d4ff2d38\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a524719ea6a6d92a7cb79e9b1c30d27b\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\a524719ea6a6d92a7cb79e9b1c30d27b\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e73e3742c3388c1a683d5d0b670b0c6\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e73e3742c3388c1a683d5d0b670b0c6\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ebae46880154fc2db66412c23af82a34\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ebae46880154fc2db66412c23af82a34\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ae0df4ed1268ab781f960c2289dec795\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\ae0df4ed1268ab781f960c2289dec795\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\0e53a8f74fdcd25dda5bd7a48cc70191\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\0e53a8f74fdcd25dda5bd7a48cc70191\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\89a30dc4e5515ac91cb14e7c1e612afa\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\89a30dc4e5515ac91cb14e7c1e612afa\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e55fa1a400ec03a8b32a6a8668a3901\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e55fa1a400ec03a8b32a6a8668a3901\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\26c945857fb14d281a9ae5fdb18d2706\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\26c945857fb14d281a9ae5fdb18d2706\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c6c017c09c605ceba80f09b1e3b70d42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c6c017c09c605ceba80f09b1e3b70d42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1d9c41d292aec6de44ddaafe2aefdbe0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\1d9c41d292aec6de44ddaafe2aefdbe0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\95cc9bc84a69fa48d4e116c3800ecca6\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\95cc9bc84a69fa48d4e116c3800ecca6\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\fc3e5e594c9af13a6888ff73927fbad0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\fc3e5e594c9af13a6888ff73927fbad0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:fluttercontactpicker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\fluttercontactpicker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from [:fluttercontactpicker] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\fluttercontactpicker\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:11:5-81
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-61
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:68
+	android:resource
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-65
+	android:name
+		ADDED from [:share] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] C:\Users\mbhar\Desktop\projects\flutter\enough_mail_app\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-71
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\c26deeb975be2e31b0c6b8499371c906\biometric-1.1.0\AndroidManifest.xml:24:22-69
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\792fae0a1f41b8d642106804f25d18f3\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\babee31e7f625c9f950669ca6b96567a\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f8b7571f1ff78db6d5d60ce6f869a40c\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e73e3742c3388c1a683d5d0b670b0c6\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\9e73e3742c3388c1a683d5d0b670b0c6\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\f8b7571f1ff78db6d5d60ce6f869a40c\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:13:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:16:9-92
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:16:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:18:9-21:72
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:19:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:24:13-77
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.4] C:\Users\mbhar\.gradle\caches\transforms-2\files-2.1\74c9124b26e64092fcea5a436ec08f56\jetified-tsbackgroundfetch-0.5.4\AndroidManifest.xml:26:13-29:29
